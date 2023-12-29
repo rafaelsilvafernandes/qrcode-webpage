@@ -15,7 +15,7 @@ body {
     background-color: #d6e2f0;
 }
 
-#main {
+main {
     position: absolute;
     margin: auto;
     background-color: #ffffff;
